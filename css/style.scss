@@ -1,0 +1,46 @@
+body {
+  //   border: 2px solid black;
+}
+#arial-lable {
+  //   border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+.dp {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 50%;
+  padding: 0px 10px;
+}
+.svg {
+  width: 35px;
+  height: 35px;
+}
+.user-logo-containor {
+}
+// first tweet
+#first-tweet {
+  display: flex;
+  //   justify-content: space-between;
+}
+.name-address {
+  display: flex;
+  justify-content: space-between;
+}
+.together {
+  display: flex;
+}
+// .vertical {
+//   display: flex;
+//   justify-content: flex-end;
+// }
+.tweet-response {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  width: 20px;
+  height: 20px;
+  padding: 0px 2px;
+}
